@@ -1,0 +1,14 @@
+Flask>=2.2
+matplotlib
+numpy
+openpyxl
+pandas
+plotly
+pmdarima
+scikit-learn
+xgboost
+gunicorn
+Flask-Session
+Flask-SQLAlchemy
+psycopg2-binary
+boto3
